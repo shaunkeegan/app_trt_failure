@@ -1,2 +1,8 @@
-# app_trt_failure
+# Apparent Treatment Failure
+
+Shaun Keegan
+University of Glasgow
+
+shaun.keegan@glasgow.ac.uk / keega.s.p@gmail.com
+
 This is the code for a project modelling cases of false treatment failure in African Animal Trypanosomiasis. 
