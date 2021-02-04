@@ -9,3 +9,10 @@ https://twitter.com/DrShaunKeegan
 
 
 This is the code for a project modelling cases of false treatment failure in African Animal Trypanosomiasis. 
+
+
+# File Idenitfier Codes
+
+atf - apparent treatment failure
+em - exploratory model
+cm - candidate model
