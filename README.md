@@ -16,4 +16,7 @@ This is the code for a project modelling cases of false treatment failure in Afr
 atf - apparent treatment failure <br>
 em - exploratory model <br>
 cm - candidate model <br>
-fm - final model
+fm - final model <br><br>
+e.g. atf_cm01.R is apparent treatment failure candidate model 1
+
+
