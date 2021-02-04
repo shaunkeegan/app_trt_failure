@@ -13,6 +13,7 @@ This is the code for a project modelling cases of false treatment failure in Afr
 
 # File Idenitfier Codes
 
-atf - apparent treatment failure
-em - exploratory model
-cm - candidate model
+atf - apparent treatment failure <br>
+em - exploratory model <br>
+cm - candidate model <br>
+fm - final model
